@@ -44,7 +44,7 @@
         {
             "name": "additonalRestoreKeys",
             "type": "multiLine",
-            "label": "Additional restore key prefixs",
+            "label": "Additional restore key prefixes",
             "defaultValue": "",
             "required": false,
             "helpMarkDown": "TODO"
