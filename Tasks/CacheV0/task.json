@@ -42,9 +42,9 @@
             "helpMarkDown": "Variable to set to 'true' when the cache is restored (i.e. a cache hit), otherwise set to 'false'."
         },
         {
-            "name": "fallbackKeys",
+            "name": "additonalRestoreKeys",
             "type": "multiLine",
-            "label": "Fallback keys",
+            "label": "Additional restore key prefixs",
             "defaultValue": "",
             "required": false,
             "helpMarkDown": "TODO"
