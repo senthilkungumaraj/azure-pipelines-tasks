@@ -42,12 +42,12 @@
       "helpMarkDown": "ms-resource:loc.input.help.cacheHitVar"
     },
     {
-      "name": "additonalRestoreKeys",
+      "name": "restoreKeys",
       "type": "multiLine",
-      "label": "ms-resource:loc.input.label.additonalRestoreKeys",
+      "label": "ms-resource:loc.input.label.restoreKeys",
       "defaultValue": "",
       "required": false,
-      "helpMarkDown": "ms-resource:loc.input.help.additonalRestoreKeys"
+      "helpMarkDown": "ms-resource:loc.input.help.restoreKeys"
     }
   ],
   "instanceNameFormat": "ms-resource:loc.instanceNameFormat",

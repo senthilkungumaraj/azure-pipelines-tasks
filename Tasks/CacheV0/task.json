@@ -42,7 +42,7 @@
             "helpMarkDown": "Variable to set to 'true' when the cache is restored (i.e. a cache hit), otherwise set to 'false'."
         },
         {
-            "name": "additonalRestoreKeys",
+            "name": "restoreKeys",
             "type": "multiLine",
             "label": "Additional restore key prefixes",
             "defaultValue": "",
