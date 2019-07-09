@@ -7,11 +7,11 @@ Tasks/AndroidSigningV3/*    @madhurig
 
 Tasks/ANTV1/*   @madhurig
 
-Tasks/AppCenterDistributeV1/*   @DennisPan    @keerthanakumar
+Tasks/AppCenterDistributeV1/*   @DennisPan    @turanuk
 
-Tasks/AppCenterDistributeV2/*   @DennisPan    @keerthanakumar
+Tasks/AppCenterDistributeV2/*   @DennisPan    @turanuk
 
-Tasks/AppCenterDistributeV3/*   @DennisPan    @keerthanakumar
+Tasks/AppCenterDistributeV3/*   @DennisPan    @turanuk
 
 Tasks/AppCenterTestV1/*   @owenniblock
 
@@ -54,6 +54,8 @@ Tasks/AzurePolicyV0/*   @bansalaseem
 Tasks/AzurePowerShellV2/*   @kmkumaran
 
 Tasks/AzurePowerShellV3/*   @kmkumaran
+
+Tasks/AzurePowershellV4/*   @kmkumaran
 
 Tasks/AzureResourceGroupDeploymentV2/*      @sachinma
 
@@ -117,8 +119,6 @@ Tasks/Common/java-common/*        @madhurig   @kelliejos
 
 Tasks/Common/kubernetes-common/*      @nishubansal    @ds-ms
 
-Tasks/Common/packaging-common-old/*   @jotaylo
-
 Tasks/Common/packaging-common/*     @jotaylo
 
 Tasks/Common/securefiles-common/*   @madhurig   @hashtagchris
@@ -174,6 +174,8 @@ Tasks/DownloadSecureFileV1/*    @madhurig
 Tasks/DuffleInstallerV0/*   @bansalaseem     @vithati
 
 Tasks/ExtractFilesV1/*      @bryanmacfarlane
+
+Tasks/FileTransformV1/*     @kmkumaran      @SumiranAgg     @vincentdass
 
 Tasks/FtpUploadV1/*     @madhurig
 
@@ -254,6 +256,8 @@ Tasks/NuGetToolInstallerV0/*    @zjrunner
 Tasks/PackerBuildV0/*   @sachinma
 
 Tasks/PackerBuildV1/*   @sachinma
+
+Tasks/PipAuthenticateV0/*     @zjrunner @shubham90
 
 Tasks/PowerShellV2/*    @bryanmacfarlane
 
